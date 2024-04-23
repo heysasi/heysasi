@@ -2,8 +2,9 @@
 
 Currently working as QA Engineer. Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Currently learning API Testing using Postman.
 
-Tools:
+### Tools:
 Javascript, Cypress, Robot Framework, Jira, Visual Studio Code, Github.
+
 
 
 
