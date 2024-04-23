@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Sasi
 
+Currently working as QA Engineer. Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. API Testing using Postman.
+
 <!--
 **heysasi/heysasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
